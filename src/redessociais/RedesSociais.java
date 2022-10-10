@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class RedesSociais {
 
     public static void main(String[] args) {
-
+        //Array de redes sociais
         ArrayList<RedeSocial> redesSociais = new ArrayList<>();
 
         Facebook facebook = new Facebook();

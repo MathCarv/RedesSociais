@@ -1,7 +1,7 @@
 package redessociais;
 
 public class Facebook extends RedeSocial implements VideoConferencia, Compartilhamento {
-
+    //Facebook Implements
     @Override
     public void postarFoto() {
         System.out.println("Postou Foto no Facebook");

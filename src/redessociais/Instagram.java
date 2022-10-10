@@ -1,6 +1,7 @@
 package redessociais;
 
 public class Instagram extends RedeSocial{
+    //Instagram implements
       @Override
     public void postarFoto() {
         System.out.println("Postou Foto no Instagram");

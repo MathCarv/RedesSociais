@@ -1,6 +1,7 @@
 package redessociais;
 
 public class Twitter extends RedeSocial implements Compartilhamento{
+    //Compartilhamento das redes
       @Override
     public void postarFoto() {
         System.out.println("Postou Foto no Twitter");

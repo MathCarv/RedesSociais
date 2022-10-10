@@ -1,6 +1,7 @@
 package redessociais;
 
 public class GooglePlus extends RedeSocial implements VideoConferencia, Compartilhamento{
+    //Google Plus implements
       @Override
     public void postarFoto() {
         System.out.println("Postou Foto no GooglePlus");

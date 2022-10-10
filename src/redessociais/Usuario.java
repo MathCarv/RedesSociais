@@ -3,7 +3,7 @@ package redessociais;
 import java.util.ArrayList;
 
 public class Usuario {
-
+    //Atributos do usuario
     private String nome;
     private String email;
     ArrayList<RedeSocial> usa = new ArrayList<>();

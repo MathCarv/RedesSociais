@@ -1,7 +1,7 @@
 package redessociais;
 
 public abstract class RedeSocial{
-
+    //Atributos da rede
     protected String senha;
     protected int numAmigos;
 
